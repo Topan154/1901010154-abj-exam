@@ -1,0 +1,2 @@
+Nama Perangkat : Switch 2000, Lokasi : Gedung A
+Nama Perangkat : Cisco ASA 5511, Lokasi : Gedung B
